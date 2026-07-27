@@ -1,0 +1,92 @@
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySqlConnector.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySqlConnector.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Telasvelculos.resources
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\leandro.apereira16\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySqlConnector.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySqlConnector.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Telasvelculos.resources
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\leandro.apereira16\Documents\GitHub\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\MySqlConnector.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\MySqlConnector.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
