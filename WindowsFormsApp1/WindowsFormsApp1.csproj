@@ -79,8 +79,8 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Form1.cs">
+    <ItemGroup>
+    <Compile Include="Telasveliculos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Program.cs" />
