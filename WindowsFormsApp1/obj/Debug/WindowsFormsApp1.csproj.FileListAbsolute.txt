@@ -90,3 +90,9 @@ C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\
 C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Leando A. Pereira\Downloads\WindowsFormsApp1-main\schap\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
